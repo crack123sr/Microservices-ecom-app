@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Premium Noise Cancelling Headphones",
+    "price": 348,
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "description": "Titanium design, A17 Pro chip",
+    "price": 999,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1710023038502-ba80a70a9f53?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "MacBook Air M3",
+    "description": "Strikingly thin and fast",
+    "price": 1099,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1710905018864-d585574d79f8?q=80&w=1187&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Galaxy AI is here",
+    "price": 1299,
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1705585175110-d25f92c183aa?q=80&w=732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "PlayStation 5 Slim",
+    "description": "Play Has No Limits",
+    "price": 499,
+    "stock": 100,
+    "image": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "description": "7-inch OLED screen",
+    "price": 349,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1680007966627-d49ae18dbbae?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "Performance Wireless Mouse",
+    "price": 99,
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
